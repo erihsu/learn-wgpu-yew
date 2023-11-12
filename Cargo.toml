@@ -12,8 +12,8 @@ target = "wasm32-unknown-unknown"
 bytemuck = {version = "1.12.1", features = ["derive"]}
 gloo = "0.8.0"
 once_cell = "1.14.0"
-wasm-bindgen = "0.2.83"
-wasm-bindgen-futures = "0.4.33"
+wasm-bindgen = "0.2.88"
+wasm-bindgen-futures = "0.4.38"
 wgpu = {version = "0.13.1", features = ["webgl"]}
 yew = "0.19.3"
 yew-canvas = "0.2.1"
